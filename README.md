@@ -5,3 +5,4 @@ Express Material Skeleton
     
     npm install
     gulp material
+    npm start
